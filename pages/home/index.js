@@ -7,7 +7,7 @@ const Home = () => {
     <div class="flex w-full mb-20 flex-wrap">
       <h1 class="sm:text-3xl text-2xl font-medium title-font text-red-900 lg:w-1/3 lg:mb-0 mb-font-bold 4">The Website Of Absolute Peakness</h1>
       <p class="lg:pl-6 lg:w-2/3 mx-auto leading-relaxed text-base">Yes I am completely aware that this is going in our portfolio AND YES THERE IS MORE THAT I HAVE PREPARED, 
-      AND YES IT'S IN THE GITHUB REPOSITORY IN THE PUBLIC FOLDER XD</p>
+      AND YES IT&apos;S IN THE GITHUB REPOSITORY IN THE PUBLIC FOLDER XD</p>
     </div>
     <div class="flex flex-wrap md:-m-2 -m-1">
       <div class="flex flex-wrap w-1/2">
